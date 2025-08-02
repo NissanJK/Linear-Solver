@@ -71,6 +71,7 @@ def solve(A, b, **kwargs):
 - numpy
 - matplotlib
 - fpdf
+- imageio
 - tkinter (built-in)
 
 ## Troubleshooting
